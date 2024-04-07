@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712527166 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\laboratorio_librerias\main.cpp
+	"notas_facultad.h"
+
+1712527275 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\laboratorio_librerias\include\notas_facultad.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1712527166 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\laboratorio_librerias\src\notas_facultad.cpp
+	"notas_facultad.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+
